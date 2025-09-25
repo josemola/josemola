@@ -1,4 +1,4 @@
-# 👋 Hola, soy **josemola**
+# 👋 Hola, soy **jose**
 
 💻 Informático de **ASIR** apasionado por la tecnología, la administración de sistemas y la programación.  
 Me gusta aprender cosas nuevas, resolver problemas y crear proyectos con diferentes lenguajes.  
