@@ -8,7 +8,7 @@ Me gusta aprender cosas nuevas, resolver problemas y crear proyectos con diferen
 🌍 Buen nivel de **inglés**  
 
 Me considero una persona con muchísima energía y perseverancia: incluso en las tareas más difíciles e “imposibles” termino resolviéndolas con esfuerzo, creatividad y constancia. 🚀  
-
+---
 ## 🌟 Más sobre mí
 ✨ Me encanta **automatizar tareas** y explorar nuevas formas de optimizar sistemas.  
 🔐 La **ciberseguridad** es un área que me motiva y donde sigo creciendo cada día.  
