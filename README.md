@@ -1,8 +1,8 @@
 # 👋 Hola, soy **jose**
----
+
 💻 Informático de **ASIR** apasionado por la tecnología, la administración de sistemas y la programación.  
 Me gusta aprender cosas nuevas, resolver problemas y crear proyectos con diferentes lenguajes.  
----
+
 🔐 Apasionado por la **ciberseguridad** y la **automatización** de procesos  
 🎓 Varias certificaciones en **CISCO**  
 🌍 Buen nivel de **inglés**  
@@ -21,7 +21,7 @@ Me considero una persona con muchísima energía y perseverancia: incluso en las
 - 🌐 **HTML** – base del desarrollo web.  
 - 📦 Y explorando muchos otros lenguajes y herramientas.  
 
----
+
 
 ## 📊 Lenguajes más usados
 ![Mis lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=josemola&layout=compact&theme=tokyonight)
