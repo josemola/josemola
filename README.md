@@ -3,6 +3,12 @@
 💻 Informático de **ASIR** apasionado por la tecnología, la administración de sistemas y la programación.  
 Me gusta aprender cosas nuevas, resolver problemas y crear proyectos con diferentes lenguajes.  
 
+🔐 Apasionado por la **ciberseguridad** y la **automatización** de procesos  
+🎓 Varias certificaciones en **CISCO**  
+🌍 Buen nivel de **inglés**  
+
+Me considero una persona con muchísima energía y perseverancia: incluso en las tareas más difíciles e “imposibles” termino resolviéndolas con esfuerzo, creatividad y constancia. 🚀  
+
 ---
 
 ## 🚀 Tecnologías que me gustan
